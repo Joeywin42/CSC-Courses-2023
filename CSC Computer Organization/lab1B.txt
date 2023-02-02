@@ -1,0 +1,31 @@
+Problem 1 -> {
+	7ACD - 3AFE?
+	   
+	69B 
+	7ACD
+  - 3AFE
+	----
+	3FCF
+	   
+	 16 - F = 1 + B = C
+	 16 - 10 = 6 + 9 = F
+
+}
+
+Problem 2 -> {
+	011101110 into 2's Complement form?
+	
+	100010001
+	
+	100010010
+
+}
+
+Problem 3 -> {
+	Octal form: 765 - 377?
+	65
+	765
+  -	377
+------------
+	366
+}
